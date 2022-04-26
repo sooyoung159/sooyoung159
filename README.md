@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Sooyoung
+# 👋 Hello World, I’m Sooyoung
 ## Front-end developer
 Portfolio: https://portfolio-jet-ten-99.vercel.app/
+
+
 
 # Skill & Studied
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=3178C6">
