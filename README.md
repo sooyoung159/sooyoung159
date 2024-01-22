@@ -1,6 +1,5 @@
 # 👋 Hello World, I’m Sooyoung
 ## Front-end developer!
-Portfolio: https://portfolio-jet-ten-99.vercel.app/
 
 
 # Skill & Studied
